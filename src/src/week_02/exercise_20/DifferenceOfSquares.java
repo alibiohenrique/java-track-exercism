@@ -1,4 +1,4 @@
-package week_02;
+package week_02.exercise_20;
 
 public class DifferenceOfSquares {
     public int computeSquareOfSumTo(int input) {
